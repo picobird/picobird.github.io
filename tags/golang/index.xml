@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>picobird&#39;s blog</title>
-    <link>http://picobird.github.com/</link>
-    <description>Recent content on picobird&#39;s blog</description>
+    <title>Golang on picobird&#39;s blog</title>
+    <link>http://picobird.github.com/tags/golang/</link>
+    <description>Recent content in Golang on picobird&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Mon, 22 Feb 2016 21:04:55 +0800</lastBuildDate>
-    <atom:link href="http://picobird.github.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://picobird.github.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>install go tools (Golang 1.6)</title>
@@ -32,27 +32,6 @@
 &lt;code&gt;go install golang.org/x/tools/cmd/godoc&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://gist.github.com/crazygit/79641e92e474ec151d07&#34;&gt;参考内容crazygit@github&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>hugo create blog</title>
-      <link>http://picobird.github.com/posts/hugo-create-blog/</link>
-      <pubDate>Fri, 19 Feb 2016 22:52:05 +0800</pubDate>
-      
-      <guid>http://picobird.github.com/posts/hugo-create-blog/</guid>
-      <description>&lt;p&gt;&amp;hellip;&amp;hellip;..&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>two</title>
-      <link>http://picobird.github.com/posts/two/</link>
-      <pubDate>Fri, 19 Feb 2016 11:36:05 +0800</pubDate>
-      
-      <guid>http://picobird.github.com/posts/two/</guid>
-      <description>&lt;p&gt;第二篇文章测试
-测试自动发布&lt;/p&gt;
 </description>
     </item>
     

@@ -3,8 +3,13 @@
   
   <url>
     <loc>http://picobird.github.com/</loc>
-    <lastmod>2016-02-19T22:52:05+08:00</lastmod>
+    <lastmod>2016-02-22T21:04:55+08:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://picobird.github.com/posts/install_go_tools/</loc>
+    <lastmod>2016-02-22T21:04:55+08:00</lastmod>
   </url>
   
   <url>
