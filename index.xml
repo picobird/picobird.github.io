@@ -19,8 +19,8 @@
 
 &lt;h3 id=&#34;最全surge配置文件-1688-rules:59d4cc3908fb12a07c706f3171336d0e&#34;&gt;最全Surge配置文件（1688 rules）&lt;/h3&gt;
 
-&lt;p&gt;这份文件来自myunlu.com(提供shadowsocks服务的网站)
-最近更新之后，surge conf文件格式全部错乱，手动整理了一下
+&lt;p&gt;这份文件来自myunlu.com(提供shadowsocks服务的网站)&lt;br /&gt;
+最近更新之后，surge conf文件格式全部错乱，手动整理了一下&lt;br /&gt;
 放在这里做备份&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-[Proxy]&#34;&gt;Proxy = custom, 1.2.3.4,443,rc4-md5,password, http://surge.run/SSEncrypt.module 
