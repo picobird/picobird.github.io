@@ -7,25 +7,24 @@
         <meta charset="utf-8" />
         <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
-        <meta property="og:title" content=" two &middot;  picobird&#39;s blog" />
+        <meta property="og:title" content=" the most complete surge conf file &middot;  picobird&#39;s blog" />
         <meta property="og:site_name" content="picobird&#39;s blog" />
-        <meta property="og:url" content="http://picobird.github.com/posts/two/" />
+        <meta property="og:url" content="http://picobird.github.com/posts/the-most-complete-surge-conf-file/" />
 
     
         <meta property="og:type" content="article" />
-        <meta property="og:article:published_time" content="2016-02-19T11:36:05&#43;08:00" />
-        <meta property="og:article:tag" content="hugo" />
+        <meta property="og:article:published_time" content="2016-03-31T11:34:49&#43;08:00" />
         
 
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@" />
         <meta name="twitter:creator" content="@" />
-        <meta name="twitter:title" content="two" />
+        <meta name="twitter:title" content="the most complete surge conf file" />
         <meta name="twitter:description" content="" />
-        <meta name="twitter:url" content="http://picobird.github.com/posts/two/" />
+        <meta name="twitter:url" content="http://picobird.github.com/posts/the-most-complete-surge-conf-file/" />
     
 
-        <title> two &middot;  picobird&#39;s blog</title>
+        <title> the most complete surge conf file &middot;  picobird&#39;s blog</title>
 
     
         <meta name="description" content="" />
@@ -44,7 +43,7 @@
     
 
     
-        <link rel="canonical" href="http://picobird.github.com/posts/two/" />
+        <link rel="canonical" href="http://picobird.github.com/posts/the-most-complete-surge-conf-file/" />
         <link rel="icon" type="image/x-icon" href="favicon.ico">
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 
@@ -54,14 +53,14 @@
     { 
         "@context": "http://schema.org",
         "@type": "Article",
-        "headline": "two",
+        "headline": "the most complete surge conf file",
         "author": {
             "@type": "Person",
             "name": "http://profiles.google.com/?rel=author"
         },
-        "datePublished": "2016-02-19",
+        "datePublished": "2016-03-31",
         "description": "",
-        "wordCount":  2 
+        "wordCount":  15 
     }
     </script>
     
@@ -89,21 +88,27 @@
 
 <article id="" class="posts">
     <div class="post-stamp">
-        <time datetime="2016-02-19T11:36:05&#43;08:00">
-            19 Feb 2016
+        <time datetime="2016-03-31T11:34:49&#43;08:00">
+            31 Mar 2016
         </time>
         <span class="taglist">
         
-        &middot;
-        
-            <a href="http://picobird.github.com/tags/hugo/">hugo</a>
-        
-        
         </span>
     </div>
-    <h1 class="post-title">two</h1>
-    <p>第二篇文章测试
-测试自动发布</p>
+    <h1 class="post-title">the most complete surge conf file</h1>
+    
+
+<h3 id="最全surge配置文件-1688-rules:59d4cc3908fb12a07c706f3171336d0e">最全Surge配置文件（1688 rules）</h3>
+
+<p>这份文件来自myunlu.com(提供shadowsocks服务的网站)
+最近更新之后，surge conf文件格式全部错乱，手动整理了一下
+放在这里做备份</p>
+
+<pre><code class="language-[Proxy]">Proxy = custom, 1.2.3.4,443,rc4-md5,password, http://surge.run/SSEncrypt.module 
+null = http,null,1234
+</code></pre>
+
+<p><a href="myunlu.conf">点击下载</a></p>
 
     <div id="comments">
     <div id="disqus_thread"></div>

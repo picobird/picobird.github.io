@@ -6,8 +6,30 @@
     <description>Recent content in Posts on picobird&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 Feb 2016 21:04:55 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 31 Mar 2016 11:34:49 +0800</lastBuildDate>
     <atom:link href="http://picobird.github.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>the most complete surge conf file</title>
+      <link>http://picobird.github.com/posts/the-most-complete-surge-conf-file/</link>
+      <pubDate>Thu, 31 Mar 2016 11:34:49 +0800</pubDate>
+      
+      <guid>http://picobird.github.com/posts/the-most-complete-surge-conf-file/</guid>
+      <description>
+
+&lt;h3 id=&#34;最全surge配置文件-1688-rules:59d4cc3908fb12a07c706f3171336d0e&#34;&gt;最全Surge配置文件（1688 rules）&lt;/h3&gt;
+
+&lt;p&gt;这份文件来自myunlu.com(提供shadowsocks服务的网站)
+最近更新之后，surge conf文件格式全部错乱，手动整理了一下
+放在这里做备份&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-[Proxy]&#34;&gt;Proxy = custom, 1.2.3.4,443,rc4-md5,password, http://surge.run/SSEncrypt.module 
+null = http,null,1234
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;a href=&#34;myunlu.conf&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>install go tools (Golang 1.6)</title>
