@@ -1,38 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang on picobird&#39;s blog</title>
-    <link>http://picobird.github.com/tags/golang/</link>
-    <description>Recent content in Golang on picobird&#39;s blog</description>
+    <title>golang on picobird&#39;s blog</title>
+    <link>/tags/golang/</link>
+    <description>Recent content in golang on picobird&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 Feb 2016 21:04:55 +0800</lastBuildDate>
-    <atom:link href="http://picobird.github.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Mon, 22 Feb 2016 21:04:55 +0800</lastBuildDate><atom:link href="/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>install go tools (Golang 1.6)</title>
-      <link>http://picobird.github.com/posts/install_go_tools/</link>
+      <link>/posts/install_go_tools/</link>
       <pubDate>Mon, 22 Feb 2016 21:04:55 +0800</pubDate>
       
-      <guid>http://picobird.github.com/posts/install_go_tools/</guid>
-      <description>
-
-&lt;h3 id=&#34;免翻墙安装go-tools-golang-1-6:4cfb5df456aec3ed4ba93c6c4f220fb6&#34;&gt;免翻墙安装Go tools (Golang 1.6)&lt;/h3&gt;
-
-&lt;p&gt;&lt;code&gt;branch=&amp;quot;release-branch.go1.6&amp;quot;&lt;/code&gt;&lt;br /&gt;
-&lt;code&gt;mkdir -p $GOPATH/src/golang.org/x&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;git clone -b $branch https://github.com/golang/tools.git $GOPATH/src/golang.org/x/tools&lt;/code&gt;&lt;br /&gt;
-&lt;code&gt;git clone https://github.com/golang/net.git $GOPATH/src/golang.org/x/net&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;cd $GOPATH&lt;/code&gt;&lt;br /&gt;
-&lt;code&gt;go install golang.org/x/tools/cmd/goimports&lt;/code&gt;&lt;br /&gt;
-&lt;code&gt;go install golang.org/x/tools/cmd/vet&lt;/code&gt;&lt;br /&gt;
-&lt;code&gt;go install golang.org/x/tools/cmd/oracle&lt;/code&gt;&lt;br /&gt;
-&lt;code&gt;go install golang.org/x/tools/cmd/godoc&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gist.github.com/crazygit/79641e92e474ec151d07&#34;&gt;参考内容crazygit@github&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>/posts/install_go_tools/</guid>
+      <description>免翻墙安装Go tools (Golang 1.6) branch=&amp;quot;release-branch.go1.6&amp;quot;
+mkdir -p $GOPATH/src/golang.org/x
+git clone -b $branch https://github.com/golang/tools.git $GOPATH/src/golang.org/x/tools
+git clone https://github.com/golang/net.git $GOPATH/src/golang.org/x/net
+cd $GOPATH
+go install golang.org/x/tools/cmd/goimports
+go install golang.org/x/tools/cmd/vet
+go install golang.org/x/tools/cmd/oracle
+go install golang.org/x/tools/cmd/godoc
+参考内容crazygit@github</description>
     </item>
     
   </channel>

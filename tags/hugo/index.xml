@@ -1,33 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on picobird&#39;s blog</title>
-    <link>http://picobird.github.com/tags/hugo/</link>
-    <description>Recent content in Hugo on picobird&#39;s blog</description>
+    <title>hugo on picobird&#39;s blog</title>
+    <link>/tags/hugo/</link>
+    <description>Recent content in hugo on picobird&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 19 Feb 2016 22:52:05 +0800</lastBuildDate>
-    <atom:link href="http://picobird.github.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Fri, 19 Feb 2016 22:52:05 +0800</lastBuildDate><atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo create blog</title>
-      <link>http://picobird.github.com/posts/hugo-create-blog/</link>
+      <link>/posts/hugo-create-blog/</link>
       <pubDate>Fri, 19 Feb 2016 22:52:05 +0800</pubDate>
       
-      <guid>http://picobird.github.com/posts/hugo-create-blog/</guid>
-      <description>&lt;p&gt;&amp;hellip;&amp;hellip;..&lt;/p&gt;
-</description>
+      <guid>/posts/hugo-create-blog/</guid>
+      <description>&amp;hellip;&amp;hellip;..</description>
     </item>
     
     <item>
       <title>two</title>
-      <link>http://picobird.github.com/posts/two/</link>
+      <link>/posts/two/</link>
       <pubDate>Fri, 19 Feb 2016 11:36:05 +0800</pubDate>
       
-      <guid>http://picobird.github.com/posts/two/</guid>
-      <description>&lt;p&gt;第二篇文章测试
-测试自动发布&lt;/p&gt;
-</description>
+      <guid>/posts/two/</guid>
+      <description>第二篇文章测试 测试自动发布</description>
     </item>
     
   </channel>

@@ -1,81 +1,58 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>picobird&#39;s blog</title>
-    <link>http://picobird.github.com/</link>
+    <link>/</link>
     <description>Recent content on picobird&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 31 Mar 2016 11:34:49 +0800</lastBuildDate>
-    <atom:link href="http://picobird.github.com/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Thu, 31 Mar 2016 11:34:49 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>the most complete surge conf file</title>
-      <link>http://picobird.github.com/posts/the-most-complete-surge-conf-file/</link>
+      <link>/posts/the-most-complete-surge-conf-file/</link>
       <pubDate>Thu, 31 Mar 2016 11:34:49 +0800</pubDate>
       
-      <guid>http://picobird.github.com/posts/the-most-complete-surge-conf-file/</guid>
-      <description>
-
-&lt;h3 id=&#34;最全surge配置文件-1688-rules:59d4cc3908fb12a07c706f3171336d0e&#34;&gt;最全Surge配置文件（1688 rules）&lt;/h3&gt;
-
-&lt;p&gt;这份文件来自myunlu.com(提供shadowsocks服务的网站)&lt;br /&gt;
-最近更新之后，surge conf文件格式全部错乱，手动整理了一下&lt;br /&gt;
-放在这里做备份&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-[Proxy]&#34;&gt;Proxy = custom, 1.2.3.4,443,rc4-md5,password, http://surge.run/SSEncrypt.module 
-null = http,null,1234
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;a href=&#34;myunlu.conf&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>/posts/the-most-complete-surge-conf-file/</guid>
+      <description>最全Surge配置文件（1688 rules） 这份文件来自myunlu.com(提供shadowsocks服务的网站)
+最近更新之后，surge conf文件格式全部错乱，手动整理了一下
+放在这里做备份
+Proxy = custom, 1.2.3.4,443,rc4-md5,password, http://surge.run/SSEncrypt.module null = http,null,1234 点击下载</description>
     </item>
     
     <item>
       <title>install go tools (Golang 1.6)</title>
-      <link>http://picobird.github.com/posts/install_go_tools/</link>
+      <link>/posts/install_go_tools/</link>
       <pubDate>Mon, 22 Feb 2016 21:04:55 +0800</pubDate>
       
-      <guid>http://picobird.github.com/posts/install_go_tools/</guid>
-      <description>
-
-&lt;h3 id=&#34;免翻墙安装go-tools-golang-1-6:4cfb5df456aec3ed4ba93c6c4f220fb6&#34;&gt;免翻墙安装Go tools (Golang 1.6)&lt;/h3&gt;
-
-&lt;p&gt;&lt;code&gt;branch=&amp;quot;release-branch.go1.6&amp;quot;&lt;/code&gt;&lt;br /&gt;
-&lt;code&gt;mkdir -p $GOPATH/src/golang.org/x&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;git clone -b $branch https://github.com/golang/tools.git $GOPATH/src/golang.org/x/tools&lt;/code&gt;&lt;br /&gt;
-&lt;code&gt;git clone https://github.com/golang/net.git $GOPATH/src/golang.org/x/net&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code&gt;cd $GOPATH&lt;/code&gt;&lt;br /&gt;
-&lt;code&gt;go install golang.org/x/tools/cmd/goimports&lt;/code&gt;&lt;br /&gt;
-&lt;code&gt;go install golang.org/x/tools/cmd/vet&lt;/code&gt;&lt;br /&gt;
-&lt;code&gt;go install golang.org/x/tools/cmd/oracle&lt;/code&gt;&lt;br /&gt;
-&lt;code&gt;go install golang.org/x/tools/cmd/godoc&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gist.github.com/crazygit/79641e92e474ec151d07&#34;&gt;参考内容crazygit@github&lt;/a&gt;&lt;/p&gt;
-</description>
+      <guid>/posts/install_go_tools/</guid>
+      <description>免翻墙安装Go tools (Golang 1.6) branch=&amp;quot;release-branch.go1.6&amp;quot;
+mkdir -p $GOPATH/src/golang.org/x
+git clone -b $branch https://github.com/golang/tools.git $GOPATH/src/golang.org/x/tools
+git clone https://github.com/golang/net.git $GOPATH/src/golang.org/x/net
+cd $GOPATH
+go install golang.org/x/tools/cmd/goimports
+go install golang.org/x/tools/cmd/vet
+go install golang.org/x/tools/cmd/oracle
+go install golang.org/x/tools/cmd/godoc
+参考内容crazygit@github</description>
     </item>
     
     <item>
       <title>hugo create blog</title>
-      <link>http://picobird.github.com/posts/hugo-create-blog/</link>
+      <link>/posts/hugo-create-blog/</link>
       <pubDate>Fri, 19 Feb 2016 22:52:05 +0800</pubDate>
       
-      <guid>http://picobird.github.com/posts/hugo-create-blog/</guid>
-      <description>&lt;p&gt;&amp;hellip;&amp;hellip;..&lt;/p&gt;
-</description>
+      <guid>/posts/hugo-create-blog/</guid>
+      <description>&amp;hellip;&amp;hellip;..</description>
     </item>
     
     <item>
       <title>two</title>
-      <link>http://picobird.github.com/posts/two/</link>
+      <link>/posts/two/</link>
       <pubDate>Fri, 19 Feb 2016 11:36:05 +0800</pubDate>
       
-      <guid>http://picobird.github.com/posts/two/</guid>
-      <description>&lt;p&gt;第二篇文章测试
-测试自动发布&lt;/p&gt;
-</description>
+      <guid>/posts/two/</guid>
+      <description>第二篇文章测试 测试自动发布</description>
     </item>
     
   </channel>

@@ -1,30 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://picobird.github.com/</loc>
+    <loc>/</loc>
     <lastmod>2016-03-31T11:34:49+08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://picobird.github.com/posts/the-most-complete-surge-conf-file/</loc>
+  </url><url>
+    <loc>/posts/</loc>
     <lastmod>2016-03-31T11:34:49+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://picobird.github.com/posts/install_go_tools/</loc>
+  </url><url>
+    <loc>/posts/the-most-complete-surge-conf-file/</loc>
+    <lastmod>2016-03-31T11:34:49+08:00</lastmod>
+  </url><url>
+    <loc>/tags/golang/</loc>
     <lastmod>2016-02-22T21:04:55+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://picobird.github.com/posts/hugo-create-blog/</loc>
+  </url><url>
+    <loc>/posts/install_go_tools/</loc>
+    <lastmod>2016-02-22T21:04:55+08:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2016-02-22T21:04:55+08:00</lastmod>
+  </url><url>
+    <loc>/tags/hugo/</loc>
     <lastmod>2016-02-19T22:52:05+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://picobird.github.com/posts/two/</loc>
+  </url><url>
+    <loc>/posts/hugo-create-blog/</loc>
+    <lastmod>2016-02-19T22:52:05+08:00</lastmod>
+  </url><url>
+    <loc>/posts/two/</loc>
     <lastmod>2016-02-19T11:36:05+08:00</lastmod>
+  </url><url>
+    <loc>/categories/</loc>
   </url>
-  
 </urlset>
