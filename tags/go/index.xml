@@ -9,11 +9,11 @@
     <lastBuildDate>Sat, 17 Feb 2024 12:16:50 +0800</lastBuildDate>
     <atom:link href="https://synclue.com/tags/go/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Add Katago Engine to Sabaki</title>
+      <title>Sabaki 安装 katago 引擎</title>
       <link>https://synclue.com/posts/add-katago-engine-to-sabaki/</link>
       <pubDate>Sat, 17 Feb 2024 12:16:50 +0800</pubDate>
       <guid>https://synclue.com/posts/add-katago-engine-to-sabaki/</guid>
-      <description>Sabaki 安装 katago 引擎 Mac 系统中安装 AI 机器人展开围棋大战&#xA;安装 Sabaki 在 Sabaki 官网 下载最新版本，支持 Windows，Mac，Linux 三个系统&#xA;安装 katago 先在终端中安装katago，以下仅介绍如何在 Mac 中安装，Windows 或 Linux 的详见官方指引&#xA;$ brew install katago 安装完成后校验是否可用，在终端中输入 katago&#xA;Usage: katago SUBCOMMAND ---Common subcommands------------------ gtp : Runs GTP engine that can be plugged into any standard Go GUI for play/analysis. Sabaki 中添加 katago 引擎 打开 sabaki 首选项（顶部菜单） 选择引擎 点击左下角新增 有四项内容待填写：名称，路径，运行参数，启动参数，我们来依次填写&#xA;名称 此处输入引擎名称，建议填写 Katago&#xA;路径 此处需要填写 katago 的安装路径，运行以下命令来获取：&#xA;$ which katago 复制输出的katago 路径，并将其粘贴到路径中</description>
+      <description>在 Mac 系统中安装 AI 机器人展开围棋大战&#xA;安装 Sabaki 在 Sabaki 官网 下载最新版本，支持 Windows，Mac，Linux 三个系统&#xA;安装 katago 先在终端中安装katago，以下仅介绍如何在 Mac 中安装，Windows 或 Linux 的详见官方指引&#xA;$ brew install katago 安装完成后校验是否可用，在终端中输入 katago&#xA;Usage: katago SUBCOMMAND ---Common subcommands------------------ gtp : Runs GTP engine that can be plugged into any standard Go GUI for play/analysis. Sabaki 中添加 katago 引擎 打开 sabaki 首选项（顶部菜单） 选择引擎 点击左下角新增 有四项内容待填写：名称，路径，运行参数，启动参数，我们来依次填写&#xA;名称 此处输入引擎名称，建议填写 Katago&#xA;路径 此处需要填写 katago 的安装路径，运行以下命令来获取：&#xA;$ which katago 复制输出的katago 路径，并将其粘贴到路径中</description>
     </item>
   </channel>
 </rss>
