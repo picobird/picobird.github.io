@@ -2,28 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>golang on picobird&#39;s blog</title>
-    <link>/tags/golang/</link>
+    <link>https://synclue.com/tags/golang/</link>
     <description>Recent content in golang on picobird&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 Feb 2016 21:04:55 +0800</lastBuildDate><atom:link href="/tags/golang/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 22 Feb 2016 21:04:55 +0800</lastBuildDate>
+    <atom:link href="https://synclue.com/tags/golang/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>install go tools (Golang 1.6)</title>
-      <link>/posts/install_go_tools/</link>
+      <link>https://synclue.com/posts/install_go_tools/</link>
       <pubDate>Mon, 22 Feb 2016 21:04:55 +0800</pubDate>
-      
-      <guid>/posts/install_go_tools/</guid>
-      <description>免翻墙安装Go tools (Golang 1.6) branch=&amp;quot;release-branch.go1.6&amp;quot;
-mkdir -p $GOPATH/src/golang.org/x
-git clone -b $branch https://github.com/golang/tools.git $GOPATH/src/golang.org/x/tools
-git clone https://github.com/golang/net.git $GOPATH/src/golang.org/x/net
-cd $GOPATH
-go install golang.org/x/tools/cmd/goimports
-go install golang.org/x/tools/cmd/vet
-go install golang.org/x/tools/cmd/oracle
-go install golang.org/x/tools/cmd/godoc
-参考内容crazygit@github</description>
+      <guid>https://synclue.com/posts/install_go_tools/</guid>
+      <description>免翻墙安装Go tools (Golang 1.6) branch=&amp;quot;release-branch.go1.6&amp;quot;&#xA;mkdir -p $GOPATH/src/golang.org/x&#xA;git clone -b $branch https://github.com/golang/tools.git $GOPATH/src/golang.org/x/tools&#xA;git clone https://github.com/golang/net.git $GOPATH/src/golang.org/x/net&#xA;cd $GOPATH&#xA;go install golang.org/x/tools/cmd/goimports&#xA;go install golang.org/x/tools/cmd/vet&#xA;go install golang.org/x/tools/cmd/oracle&#xA;go install golang.org/x/tools/cmd/godoc&#xA;参考内容crazygit@github</description>
     </item>
-    
   </channel>
 </rss>

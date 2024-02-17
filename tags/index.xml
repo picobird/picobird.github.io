@@ -2,28 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on picobird&#39;s blog</title>
-    <link>/tags/</link>
+    <link>https://synclue.com/tags/</link>
     <description>Recent content in Tags on picobird&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 22 Feb 2016 21:04:55 +0800</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>golang</title>
-      <link>/tags/golang/</link>
-      <pubDate>Mon, 22 Feb 2016 21:04:55 +0800</pubDate>
-      
-      <guid>/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hugo</title>
-      <link>/tags/hugo/</link>
-      <pubDate>Fri, 19 Feb 2016 22:52:05 +0800</pubDate>
-      
-      <guid>/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
+    <lastBuildDate>Sat, 17 Feb 2024 12:16:50 +0800</lastBuildDate>
+    <atom:link href="https://synclue.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
