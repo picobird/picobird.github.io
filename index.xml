@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>尐屾</title>
-    <link>https://synclue.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on 尐屾</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 17 Feb 2024 12:16:50 +0800</lastBuildDate>
-    <atom:link href="https://synclue.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sabaki 安装 katago 引擎</title>
-      <link>https://synclue.com/posts/add-katago-engine-to-sabaki/</link>
+      <link>http://localhost:1313/posts/add-katago-engine-to-sabaki/</link>
       <pubDate>Sat, 17 Feb 2024 12:16:50 +0800</pubDate>
-      <guid>https://synclue.com/posts/add-katago-engine-to-sabaki/</guid>
+      <guid>http://localhost:1313/posts/add-katago-engine-to-sabaki/</guid>
       <description>在 Mac 系统中安装 AI 机器人展开围棋大战&#xA;安装 Sabaki 在 Sabaki 官网 下载最新版本，支持 Windows，Mac，Linux 三个系统&#xA;安装 katago 先在终端中安装katago，以下仅介绍如何在 Mac 中安装，Windows 或 Linux 的详见官方指引&#xA;$ brew install katago 安装完成后校验是否可用，在终端中输入 katago&#xA;Usage: katago SUBCOMMAND ---Common subcommands------------------ gtp : Runs GTP engine that can be plugged into any standard Go GUI for play/analysis. Sabaki 中添加 katago 引擎 打开 sabaki 首选项（顶部菜单） 选择引擎 点击左下角新增 有四项内容待填写：名称，路径，运行参数，启动参数，我们来依次填写&#xA;名称 此处输入引擎名称，建议填写 Katago&#xA;路径 此处需要填写 katago 的安装路径，运行以下命令来获取：&#xA;$ which katago 复制输出的katago 路径，并将其粘贴到路径中</description>
     </item>
     <item>
       <title>the most complete surge conf file</title>
-      <link>https://synclue.com/posts/the-most-complete-surge-conf-file/</link>
+      <link>http://localhost:1313/posts/the-most-complete-surge-conf-file/</link>
       <pubDate>Thu, 31 Mar 2016 11:34:49 +0800</pubDate>
-      <guid>https://synclue.com/posts/the-most-complete-surge-conf-file/</guid>
+      <guid>http://localhost:1313/posts/the-most-complete-surge-conf-file/</guid>
       <description>最全Surge配置文件（1688 rules） 这份文件来自myunlu.com(提供shadowsocks服务的网站)&#xA;最近更新之后，surge conf文件格式全部错乱，手动整理了一下&#xA;放在这里做备份&#xA;Proxy = custom, 1.2.3.4,443,rc4-md5,password, http://surge.run/SSEncrypt.module null = http,null,1234 点击下载</description>
     </item>
     <item>
       <title>install go tools (Golang 1.6)</title>
-      <link>https://synclue.com/posts/install_go_tools/</link>
+      <link>http://localhost:1313/posts/install_go_tools/</link>
       <pubDate>Mon, 22 Feb 2016 21:04:55 +0800</pubDate>
-      <guid>https://synclue.com/posts/install_go_tools/</guid>
+      <guid>http://localhost:1313/posts/install_go_tools/</guid>
       <description>免翻墙安装Go tools (Golang 1.6) branch=&amp;quot;release-branch.go1.6&amp;quot;&#xA;mkdir -p $GOPATH/src/golang.org/x&#xA;git clone -b $branch https://github.com/golang/tools.git $GOPATH/src/golang.org/x/tools&#xA;git clone https://github.com/golang/net.git $GOPATH/src/golang.org/x/net&#xA;cd $GOPATH&#xA;go install golang.org/x/tools/cmd/goimports&#xA;go install golang.org/x/tools/cmd/vet&#xA;go install golang.org/x/tools/cmd/oracle&#xA;go install golang.org/x/tools/cmd/godoc&#xA;参考内容crazygit@github</description>
     </item>
     <item>
       <title>hugo create blog</title>
-      <link>https://synclue.com/posts/hugo-create-blog/</link>
+      <link>http://localhost:1313/posts/hugo-create-blog/</link>
       <pubDate>Fri, 19 Feb 2016 22:52:05 +0800</pubDate>
-      <guid>https://synclue.com/posts/hugo-create-blog/</guid>
+      <guid>http://localhost:1313/posts/hugo-create-blog/</guid>
       <description>&amp;hellip;&amp;hellip;..</description>
     </item>
     <item>
       <title>two</title>
-      <link>https://synclue.com/posts/two/</link>
+      <link>http://localhost:1313/posts/two/</link>
       <pubDate>Fri, 19 Feb 2016 11:36:05 +0800</pubDate>
-      <guid>https://synclue.com/posts/two/</guid>
+      <guid>http://localhost:1313/posts/two/</guid>
       <description>第二篇文章测试 测试自动发布</description>
     </item>
   </channel>

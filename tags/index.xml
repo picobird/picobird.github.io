@@ -2,11 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 尐屾</title>
-    <link>https://synclue.com/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on 尐屾</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sat, 17 Feb 2024 12:16:50 +0800</lastBuildDate>
-    <atom:link href="https://synclue.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Go</title>
+      <link>http://localhost:1313/tags/go/</link>
+      <pubDate>Sat, 17 Feb 2024 12:16:50 +0800</pubDate>
+      <guid>http://localhost:1313/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Golang</title>
+      <link>http://localhost:1313/tags/golang/</link>
+      <pubDate>Mon, 22 Feb 2016 21:04:55 +0800</pubDate>
+      <guid>http://localhost:1313/tags/golang/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>http://localhost:1313/tags/hugo/</link>
+      <pubDate>Fri, 19 Feb 2016 22:52:05 +0800</pubDate>
+      <guid>http://localhost:1313/tags/hugo/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

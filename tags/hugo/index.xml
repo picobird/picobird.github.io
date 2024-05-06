@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on 尐屾</title>
-    <link>https://synclue.com/tags/hugo/</link>
-    <description>Recent content in hugo on 尐屾</description>
+    <title>Hugo on 尐屾</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on 尐屾</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Fri, 19 Feb 2016 22:52:05 +0800</lastBuildDate>
-    <atom:link href="https://synclue.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hugo create blog</title>
-      <link>https://synclue.com/posts/hugo-create-blog/</link>
+      <link>http://localhost:1313/posts/hugo-create-blog/</link>
       <pubDate>Fri, 19 Feb 2016 22:52:05 +0800</pubDate>
-      <guid>https://synclue.com/posts/hugo-create-blog/</guid>
+      <guid>http://localhost:1313/posts/hugo-create-blog/</guid>
       <description>&amp;hellip;&amp;hellip;..</description>
     </item>
     <item>
       <title>two</title>
-      <link>https://synclue.com/posts/two/</link>
+      <link>http://localhost:1313/posts/two/</link>
       <pubDate>Fri, 19 Feb 2016 11:36:05 +0800</pubDate>
-      <guid>https://synclue.com/posts/two/</guid>
+      <guid>http://localhost:1313/posts/two/</guid>
       <description>第二篇文章测试 测试自动发布</description>
     </item>
   </channel>
